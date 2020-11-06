@@ -32,3 +32,8 @@ void main(){
 ~~~
 
 [naver](https://www.naver.com)
+
+[daum][daum_link]
+
+
+[daum_link]: https://www.naver.com
